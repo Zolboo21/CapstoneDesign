@@ -1,3 +1,6 @@
+https://github.com/tombeom/magugan/issues/1#issue-1465193449
+
+https://user-images.githubusercontent.com/68363309/204097866-7f94b096-bf3e-4cca-ac07-b87363a63cd7.mp4
 
 <a name="readme-top"></a>
 
