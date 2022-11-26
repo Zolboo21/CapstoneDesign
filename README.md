@@ -1,7 +1,3 @@
-https://github.com/tombeom/magugan/issues/1#issue-1465193449
-
-https://user-images.githubusercontent.com/68363309/204097866-7f94b096-bf3e-4cca-ac07-b87363a63cd7.mp4
-
 <a name="readme-top"></a>
 
 <p align="right">(<a href="https://github.com/tombeom/magugan/blob/main/README(%ED%95%9C%EA%B5%AD%EC%96%B4).md">한국어 버전으로 가기</a>)</p>
@@ -68,7 +64,7 @@ https://user-images.githubusercontent.com/68363309/204097866-7f94b096-bf3e-4cca-
 Our project is about image processing for a parking lot system which keeps count of the available parking spots. It's done with integrated system made of RaspberryPi algorithm and Arduino board ESP32 . The system recognizes the available spots in the parking lot through a camera input that will then be processed by a deep learning image processing algorithm which output is used to monitor the parking lot situation in real time. A live monitoring is shown on a dedicated website which we made with simple CSS and HTML code. ESP32 and RaspberryPI bluetooth communication performs the function of raising and lowering the breaker (which is build with servo-motor) according to the parking lot situation. The information from the parking lot is shown on the website through web server which built on FLASK. The website displays a real-time footage of the parking lot along with the number of parking slots available. The information is updated every 5 seconds.
 
 <p align="center">
-  <img src="https://github.com/tombeom/magugan/blob/main/images/web%20screenshot.png" width="623.5" height="280" title="hover text">
+  <img src="https://github.com/tombeom/magugan/blob/main/images/web%20screenshot.png" width="623.5" height="280">
 </p>
 <p align="center">
 *Screenshot of real time footage*
@@ -127,6 +123,8 @@ Our project is about image processing for a parking lot system which keeps count
 </div>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+https://user-images.githubusercontent.com/68363309/204097866-7f94b096-bf3e-4cca-ac07-b87363a63cd7.mp4
 
 ## Getting Started
 
